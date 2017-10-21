@@ -15,9 +15,7 @@ This workshop is divided into two parts
 
 It consists of 
 
-* **Instructor Project**: Used to explain concepts, with existing code samples
-* **Student Project**: For students to complete
-* **[Slides](https://docs.google.com/presentation/d/1t03PZ273i3Ob3hgpk_z_qgE0COUbFOvKcAgqwbySEb0/edit?usp=sharing)**: What we will follow* * **[Hands On] **: Let's have fun
+* **[Slides](https://docs.google.com/presentation/d/1t03PZ273i3Ob3hgpk_z_qgE0COUbFOvKcAgqwbySEb0/edit?usp=sharing)**: What we will follow* * **[Hands On]**: Let's have fun
 * **[Questions](https://docs.google.com/document/d/1XO87ugZHS_gNyEXyoUbqK13bMYLaXWXfwKknNTkMf00/edit?usp=sharing)**: We'll finish reviewing if we too boring or not :-)
 
 
