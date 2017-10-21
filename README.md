@@ -6,6 +6,11 @@
 
 A Kotlin workshop intended to be taught in two days. 
 
+### Pre requirements
+* Connect to our beautiful Wireless Network: Mind Da Guest (ask the password to the speakers)
+* [Download IntelIJ here](https://www.jetbrains.com/idea/download) and don't forget to install it
+* Prepare to be amazed (by the beauty of the speakers, not the workshop, no, really!)
+
 ### Structure
 
 This workshop is divided into two parts
