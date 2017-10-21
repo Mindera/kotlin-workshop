@@ -10,23 +10,27 @@ A Kotlin workshop intended to be taught in two days.
 
 This workshop is divided into two parts
 
-* Introduction to Kotlin
-* Advanced Kotlin
+* Introduction to Kotlin (slides)
+* Hands on (let's have fun)
 
 It consists of 
 
 * **Instructor Project**: Used to explain concepts, with existing code samples
 * **Student Project**: For students to complete
-* **[Slides](https://docs.google.com/presentation/d/1zYWyDedyf0YhnLFF3TVpUqU3C8PKTuvR5P06L99MRn8/edit?usp=sharing)**: For the instructor to use 
-* **[Questions](https://docs.google.com/document/d/1XO87ugZHS_gNyEXyoUbqK13bMYLaXWXfwKknNTkMf00/edit?usp=sharing)**: For students to complete
+* **[Slides](https://docs.google.com/presentation/d/1t03PZ273i3Ob3hgpk_z_qgE0COUbFOvKcAgqwbySEb0/edit?usp=sharing)**: What we will follow* * **[Hands On] **: Let's have fun
+* **[Questions](https://docs.google.com/document/d/1XO87ugZHS_gNyEXyoUbqK13bMYLaXWXfwKknNTkMf00/edit?usp=sharing)**: We'll finish reviewing if we too boring or not :-)
 
 
-Both the Instructor Project and the slides have Introduction and Advanced modules included. While the Introduction 
-has a lot of pre-built examples, it also serves as a canvas to show more code while teaching. However, please make sure that if you're 
-a contributing author to this project, that you *do not* check-in any ad-hoc code. It's also recommended to use Scratch files in IntelliJ IDEA
-for this purpose.
+For this workshop please use IntelliJ IDEA (it can be Android Studio)'s Scratch files
 
-### Authors
+
+
+### Disclaimer
+
+This workshop is based on one from the guys that created Kotlin (we like to drink from the source), so kudos to them: https://github.com/JetBrains/kotlin-workshop
+
+
+### Original Authors
 
 This workshop includes material from the following authors:
 
@@ -45,18 +49,3 @@ The material provided in this repository, including but not limited to source co
 
 
 JetBrains and Kotlin are Registered Trademarks of their respective trademark holders. 
-
-#### Contributions
-
-We welcome all contributions to this workshop. If you feel you'd like to contribute something, create a fork and make a pull request. Bug fixes, comments, suggestions, all welcome. 
-
-If you're contributing code or samples, please send a pull request. If you'd like to update the slides or questions, please contact [Hadi Hariri](https://github.com/hhariri).  
-#### Usage and endorsements 
- 
-You are welcome to use the material in this workshop provided you abide by the corresponding license agreement. Additionally 
-
-* By using this material, with or without any modification, JetBrains does not endorse any workshop or training that you may offer.
-* By using this material, with or without any modification, you may not use JetBrain's name to promote your workshop or training without prior written consent. 
-* By using this material, provided there are no modifications, you may indicate that you are using JetBrains Kotlin Workshop Material.
-
-If you're interested in becoming an official JetBrains Training Partner, please [contact us](https://www.jetbrains.com/company/partners/become_a_partner.html) 
